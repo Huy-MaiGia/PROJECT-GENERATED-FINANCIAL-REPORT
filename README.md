@@ -1,4 +1,4 @@
-# PROJECT-AUTOMATED-GENERATED-CRIF-DNB-FINANCIAL-REPORT
+# PROJECT-AUTOMATED-GENERATED-FINANCIAL-REPORT
 Automated Financial Reporting Pipeline
 This project automates the transformation of raw client financial data into clear, visual insights. By leveraging Python, the script processes financial statements to generate trend reports for key performance indicators (KPIs) such as Net Worth, Revenue, and Profit After Tax.
 
